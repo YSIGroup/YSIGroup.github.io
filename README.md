@@ -40,3 +40,4 @@ Social Network
 - [Tumblr](https://ysigroup.tumblr.com)
 - [Pinterest](https://www.pinterest.com/ysigroup)
 - [Instagram](https://www.instagram.com/ysigroup)
+- [Blogger](https://ysigroup.blogspot.com)
